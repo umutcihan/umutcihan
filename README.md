@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @umutcihan
-- 👀 I’m interested in data analysis, web development, machine learning
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👋 Hi, I’m @umutcihan, working as a data scientist,
+- 👀 I’m interested in data science, machine learning, Agentic Workflows,
 - 📫 How to reach me, e-mail me umutcihan1998@gmail.com
 
 <!---
